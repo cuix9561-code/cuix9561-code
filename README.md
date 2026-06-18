@@ -35,6 +35,10 @@ I build premium, production-ready UI components and responsive portfolio templat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuix9561-code&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160"/>
 </div>
 
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=cuix9561-code</div>icon=0</div>color=0" alt="Visitor Count"/>
+</div>
+
 ---
 
 ### 🎯 What I'm Working On
@@ -55,4 +59,8 @@ I build premium, production-ready UI components and responsive portfolio templat
 
 <div align="center">
   <i>"Code is design. Design is code."</i>
+</div>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=cuix9561-code</div>icon=0</div>color=0" alt="Visitor Count"/>
 </div>
