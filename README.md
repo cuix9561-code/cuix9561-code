@@ -57,6 +57,16 @@ I build premium, production-ready UI components and responsive portfolio templat
 
 ---
 
+### 💖 Support My Work
+
+I have officially launched my creator profile on **Aifadian**! If you like my responsive Tailwind templates and UI components, you can support my independent development here:
+
+👉 **[Support me on Aifadian (爱发电)](https://ifdian.net/a/codefox)**
+
+Your sponsorship helps me dedicate more time to building high-quality open-source projects, writing documentation, and creating premium UI resources for the indie developer community. Every bit of support means the world to me. 🙏
+
+---
+
 <div align="center">
   <i>"Code is design. Design is code."</i>
 </div>
