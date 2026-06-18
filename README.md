@@ -69,6 +69,8 @@ Your sponsorship helps me dedicate more time to building high-quality open-sourc
 
 <div align="center">
   <i>"Code is design. Design is code."</i>
+  <br />
+  <sub>☕ <a href="https://ifdian.net/a/codefox">Support me on Aifadian (爱发电)</a></sub>
 </div>
 
 <div align="center">
